@@ -6,6 +6,8 @@ The course mainly teaches how to analyze experimental data in R using data colle
 
 The code in this class was in a single file called coursera.R, which I splitted them out to different files for different tests.
 
+I took some [notes](notes.md) in plain text file. You can also read the [comprehensive notes](https://cs.uwaterloo.ca/~mschaeke/experiment-design-and-analysis/) from Mike Schaekermann.
+
 ## Table of Analysis
 
 ### [Tests of Proportions](tests-of-proportions):
