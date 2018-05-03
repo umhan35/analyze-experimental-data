@@ -1,7 +1,6 @@
-# analyze-experimental-data
+# Designing, Running, and Analyzing Experiments
 
-The material from the Coursera course [Designing, Running, and Analyzing Experiments
-](https://www.coursera.org/learn/designexperiments) by Jacob O. Wobbrock.
+The material from the Coursera course [Designing, Running, and Analyzing Experiments](https://www.coursera.org/learn/designexperiments) by [Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/).
 
 The course mainly teaches how to analyze experimental data in R using data collected from **HCI experiments**.
 
@@ -42,7 +41,7 @@ The code in this class was in a single file called coursera.R, which I splitted 
   </tbody>
 </table>
 
-## Analyses of Variance (ANOVA):
+### Analyses of Variance (ANOVA):
 
 - B: Between-Subjects
 - W: Within-Subjects
@@ -103,7 +102,7 @@ The code in this class was in a single file called coursera.R, which I splitted 
   </tbody>
 </table>
 
-## Other Tests:
+### Other Tests:
 
 <table>
   <tbody>
