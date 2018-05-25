@@ -4,7 +4,7 @@ The material from the Coursera course [Designing, Running, and Analyzing Experim
 
 The course mainly teaches how to analyze experimental data in R using data collected from **HCI experiments**.
 
-The code in this class was in a single file called coursera.R, which I splitted them out to different files for different tests.
+I hand-typed all the code (practice) in this class, and unlike a single file - coursera.R - given, I splitted them out to different files for different tests.
 
 I took some [notes](notes.md) in plain text file. You can also read the [comprehensive notes](https://cs.uwaterloo.ca/~mschaeke/experiment-design-and-analysis/) from Mike Schaekermann.
 
