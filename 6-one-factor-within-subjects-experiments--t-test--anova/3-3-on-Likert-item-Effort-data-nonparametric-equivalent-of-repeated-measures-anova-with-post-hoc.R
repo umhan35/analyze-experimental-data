@@ -5,7 +5,7 @@
 
 # read in a data file with a third method, voice recognition
 #  file name: # search scroll voice (bad naming...)
-data = read.csv("one-factor-within-subjects-experiments/srchscrlvce.csv") 
+data = read.csv("6-one-factor-within-subjects-experiments--t-test--anova/srchscrlvce.csv") 
 data$Subject = factor(data$Subject)
 data$Order   = factor(data$Order)
 summary(data)
@@ -24,7 +24,7 @@ hist(data.scroll$Effort)
 hist(data.voice$Effort)
 plot(Effort ~ Technique, data)
 
-# Friedman test on Errors
+# Friedman test on Effort
 library(coin)
 friedman_test(Effort ~ Technique | Subject, data=data, distribution="asymptotic")
 # results is not significant
